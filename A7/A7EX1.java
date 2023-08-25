@@ -2,6 +2,7 @@
 import java.util.*;
 
 public class A7EX1 {
+
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);
         int num1 = 0;
@@ -22,7 +23,7 @@ public class A7EX1 {
 
         } while (!inteiros);
 
-        System.out.println("A soma dos números é: " + (num1+num2));
+        System.out.println("A soma dos números é: " + (num1 + num2));
         e.close();
     }
 }

@@ -2,15 +2,13 @@
 import javax.swing.JOptionPane;
 
 public class A5EX3 {
+
     public static void main(String[] args) {
         int op = Integer.parseInt(JOptionPane.showInputDialog("Selecione a operação:\n1 - Soma\n2 - Subtração\n" +
                 "3 - Multiplicação\n4 - Divisão"));
-
         double n1 = Double.parseDouble(JOptionPane.showInputDialog("Digite o primeiro número:"));
         double n2 = Double.parseDouble(JOptionPane.showInputDialog("Digite o segundo número:"));
-
         double resultado = Operacao(op, n1, n2);
-
         JOptionPane.showMessageDialog(null, "O resultado da operação é: " + resultado);
     }
 
