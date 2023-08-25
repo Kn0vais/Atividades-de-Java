@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class A3EX1{
   public static void main (String [] args) {
     Scanner e = new Scanner(System.in);
