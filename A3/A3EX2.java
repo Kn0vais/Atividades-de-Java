@@ -1,3 +1,4 @@
+//Verificador de números inteiros (Pares e Ímpares).
 import java.util.Scanner;
 public class A3EX2 {
     public static void main (String [] args){

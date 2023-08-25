@@ -1,3 +1,4 @@
+//Calculadora de áreas completa.
 import java.util.Scanner;
 import java.lang.Math;
     public class A2EX6 {

@@ -1,3 +1,4 @@
+//Indentificador de Posição (Plano Cartesiano).
 import java.util.Scanner;
 public class A3EX7 {
     public static void main (String [] args){

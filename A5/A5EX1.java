@@ -1,3 +1,4 @@
+//Calculadora de Média de dois números.
 import javax.swing.JOptionPane;
 
 public class A5EX1 {

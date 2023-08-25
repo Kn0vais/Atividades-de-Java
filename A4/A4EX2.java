@@ -1,3 +1,4 @@
+//Identificador de localização contínuo (Quadrantes do Plano Cartesiano).
 import java.util.Scanner;
 
 public class A4EX2{

@@ -1,3 +1,4 @@
+//Verificador de diferença de dois produtos de dois pares de variáveis.
 import java.util.Scanner;
 public class A2EX3 {
     public static void main (String []args){

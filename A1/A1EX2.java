@@ -1,3 +1,4 @@
+//Calculadora de área (Triângulos e Retângulos).
 import java.util.Scanner;
 public class A1EX2 {
     public static void main (String[] args){

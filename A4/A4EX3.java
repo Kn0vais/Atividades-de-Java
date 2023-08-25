@@ -1,3 +1,4 @@
+//Contador de ímpares.
 import java.util.Scanner;
 public class A4EX3 {
     public static void main (String [] args){

@@ -1,3 +1,4 @@
+//Separador de números negativos.
 import java.util.Scanner;
 
 public class A6EX1 {

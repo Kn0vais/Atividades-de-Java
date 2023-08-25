@@ -1,3 +1,4 @@
+//Calculadora de soma e média de múltiplos números. 
 import java.util.Scanner;
 
 public class A6EX2 {
@@ -17,8 +18,8 @@ public class A6EX2 {
         for (int i = 0; i < q; i++){
             System.out.print(" [" + num [i] + "]");
             soma += num [i];        
-            media = soma / q;
         }
+        media = soma / q;  
         System.out.printf("\nA Soma é: [%.1f]\nMédia é: [%.1f]", soma, media);
         e.close();
     }

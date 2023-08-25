@@ -1,3 +1,4 @@
+//Verificador de números inteiros (Múltiplos).
 import java.util.Scanner;
 public class A3EX3 {
     public static void main (String [] args){

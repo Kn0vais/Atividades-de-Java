@@ -1,4 +1,4 @@
-//Teste de Classes
+//Programa para Teste de Classes.
 import javax.swing.JOptionPane;
 
 public class Teste {

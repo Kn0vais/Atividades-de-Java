@@ -1,3 +1,4 @@
+//Separador de números pares.
 import java.util.Scanner;
 
 public class A6EX3 {

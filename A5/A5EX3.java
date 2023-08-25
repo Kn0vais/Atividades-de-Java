@@ -1,3 +1,4 @@
+//Calculadora de dois números (Usando Classe própria).
 import javax.swing.JOptionPane;
 
 public class A5EX3 {

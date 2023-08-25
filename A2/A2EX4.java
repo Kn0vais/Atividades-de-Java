@@ -1,3 +1,4 @@
+//Calculadora de salário por hora.
 import java.util.Scanner;
 import java.lang.Math;
 public class A2EX4 {

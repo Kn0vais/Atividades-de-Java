@@ -1,3 +1,4 @@
+//Leitor de Caixa V1.
 import java.util.Scanner;
     public class A2EX5 {
         public static void main (String []args){

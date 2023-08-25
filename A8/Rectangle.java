@@ -1,3 +1,4 @@
+//Classe Rectangle que incide nas instâncias "a." no A8EX1.
 package A8;
 public class Rectangle {
 

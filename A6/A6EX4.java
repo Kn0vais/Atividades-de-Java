@@ -1,3 +1,4 @@
+//Verificador de maior número em uma lista.
 import java.util.Scanner;
 
 public class A6EX4 {

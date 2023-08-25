@@ -1,3 +1,4 @@
+//Calculadora de dois números.
 import java.util.Scanner;
 public class A2EX1{
     public static void main (String []args){

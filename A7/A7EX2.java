@@ -1,3 +1,4 @@
+//Calculadora de Divisão com verificação de divisor 0 e caracteres errados.
 import java.util.*;
 import java.lang.ArithmeticException;
 public class A7EX2 {
@@ -20,7 +21,7 @@ public class A7EX2 {
             }catch (ArithmeticException a){
                 System.out.println("ERRO! Divisões por divisor [0] são inválidas!");
             }catch (InputMismatchException b){
-                System.out.println("O número inserido é invalido. Selecione outros números");
+                System.out.println("O caractere inserido é invalido. Selecione outros números");
                 e.nextLine();
             }
 

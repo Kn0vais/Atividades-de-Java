@@ -1,3 +1,4 @@
+//Calculadora de horas de jogo.
 import java.util.Scanner;
 public class A3EX4 {
     public static void main (String [] args){

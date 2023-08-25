@@ -1,3 +1,4 @@
+//Verificador de intervalos específicos [0,25],[25,50],[50,75] & [75,100].
 import java.util.Scanner;
 public class A3EX6 {
     public static void main (String [] args){

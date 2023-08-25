@@ -1,3 +1,4 @@
+//Verificador de números inteiros (Negativos).
 import java.util.Scanner;
 public class A3EX1{
   public static void main (String [] args) {
