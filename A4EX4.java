@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class A4EX4 {
     public static void main (String [] args){
         try (Scanner e = new Scanner(System.in)){
