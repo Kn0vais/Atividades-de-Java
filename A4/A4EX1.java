@@ -1,3 +1,4 @@
+//Leitor de Senha
 import java.util.Scanner;
 
 public class A4EX1 {
